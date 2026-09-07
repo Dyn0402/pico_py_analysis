@@ -1,1 +1,14 @@
 /root-files
+/96_pad_analysis/scan_pad_dfs/
+/combined_run_analysis/scan_pad_dfs/
+
+__pycache__/
+*.pyc
+.idea/
+
+# Generated plots/output
+96_pad_analysis/*.pdf
+96_pad_analysis/*.png
+96_pad_analysis/*.root
+combined_run_analysis/*.pdf
+combined_run_analysis/*.png
